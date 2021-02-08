@@ -29,10 +29,6 @@ A non exhaustive list of VMs that work best for CPU Tensorflow inference.
 > *Intel® Xeon® Platinum 8168*
 * F16s_v2 (16 vCPUs / 32GB)
 * F32s_v2 (32 vCPUs / 64GB)
-* HC44rs (44 vCPUs / 352GB)
-
-> *Intel® Xeon® Platinum 8272*
-* F48s_v2 (48 vCPUs / 96GB)
 
 #### GCP
 > *Undisclosed Intel® Xeon® Scalable CPU*
